@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\CursoIC\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2942633719.index
+\04-ProyectoWebAPartirDeArquetipo\src\main\resources

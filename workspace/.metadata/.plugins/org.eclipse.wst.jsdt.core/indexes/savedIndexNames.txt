@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\CursoIC\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3850715765.index
+3107773628.index
+9325991.index
+129861546.index
+2942633719.index
