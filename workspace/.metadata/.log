@@ -3048,3 +3048,219 @@ Contains: Missing com.atsistemas:EjercicioArquitectura-Interfaces:jar:javadoc:0.
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 18:04:25.925
 !MESSAGE The POM for ${project.groupId}:${dependencia-persistencia}:jar:${project.version} is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 18:43:21.572
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 18:43:21.588
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 18:43:21.870
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 18:43:21.883
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 18:43:22.017
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 18:43:22.026
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 18:43:35.034
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 18:43:35.044
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 18:43:36.170
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 18:43:36.187
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 18:47:32.320
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 18:47:32.350
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:04:49.249
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:04:49.265
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:04:49.290
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:04:50.492
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:04:50.517
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:04:51.624
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:04:51.633
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:05:44.639
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:05:44.653
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:05:44.669
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:06:22.426
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:06:22.435
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:06:22.449
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:06:33.235
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:06:33.244
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:06:33.264
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:06:40.348
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:06:40.373
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:07:48.068
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:07:48.088
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:07:48.110
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:08:09.112
+!MESSAGE The POM for commons-logging:commons-logging:jar:1.1.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:08:09.616
+!MESSAGE The POM for commons-logging:commons-logging:jar:1.1.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:08:22.524
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:08:22.530
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:08:22.542
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:08:23.590
+!MESSAGE The POM for commons-logging:commons-logging:jar:1.1.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:08:33.248
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:08:33.255
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-09-18 19:44:54.306
+!MESSAGE Invalid ZIP archive: C:\Users\atSprestamos\.m2\repository\org\springframework\spring-beans\4.0.0.RELEASE\spring-beans-4.0.0.RELEASE.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-09-18 19:44:54.313
+!MESSAGE Invalid ZIP archive: C:\Users\atSprestamos\.m2\repository\org\springframework\spring-context\4.0.0.RELEASE\spring-context-4.0.0.RELEASE.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-09-18 19:44:54.320
+!MESSAGE Invalid ZIP archive: C:\Users\atSprestamos\.m2\repository\org\springframework\spring-core\4.0.0.RELEASE\spring-core-4.0.0.RELEASE.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-09-18 19:44:54.610
+!MESSAGE Invalid ZIP archive: C:\Users\atSprestamos\.m2\repository\org\springframework\spring-beans\4.0.0.RELEASE\spring-beans-4.0.0.RELEASE.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-09-18 19:44:54.629
+!MESSAGE Invalid ZIP archive: C:\Users\atSprestamos\.m2\repository\org\springframework\spring-context\4.0.0.RELEASE\spring-context-4.0.0.RELEASE.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-09-18 19:44:54.644
+!MESSAGE Invalid ZIP archive: C:\Users\atSprestamos\.m2\repository\org\springframework\spring-core\4.0.0.RELEASE\spring-core-4.0.0.RELEASE.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-09-18 19:44:56.590
+!MESSAGE Invalid ZIP archive: C:\Users\atSprestamos\.m2\repository\org\springframework\spring-beans\4.0.0.RELEASE\spring-beans-4.0.0.RELEASE.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-09-18 19:44:56.597
+!MESSAGE Invalid ZIP archive: C:\Users\atSprestamos\.m2\repository\org\springframework\spring-context\4.0.0.RELEASE\spring-context-4.0.0.RELEASE.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-09-18 19:44:56.604
+!MESSAGE Invalid ZIP archive: C:\Users\atSprestamos\.m2\repository\org\springframework\spring-core\4.0.0.RELEASE\spring-core-4.0.0.RELEASE.jar
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:45:15.613
+!MESSAGE The POM for commons-logging:commons-logging:jar:1.1.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:45:16.045
+!MESSAGE The POM for commons-logging:commons-logging:jar:1.1.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:45:16.074
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:45:16.124
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:45:16.144
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-09-18 19:45:16.844
+!MESSAGE Invalid ZIP archive: C:\Users\atSprestamos\.m2\repository\org\springframework\spring-beans\4.0.0.RELEASE\spring-beans-4.0.0.RELEASE.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-09-18 19:45:16.864
+!MESSAGE Invalid ZIP archive: C:\Users\atSprestamos\.m2\repository\org\springframework\spring-context\4.0.0.RELEASE\spring-context-4.0.0.RELEASE.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-09-18 19:45:16.886
+!MESSAGE Invalid ZIP archive: C:\Users\atSprestamos\.m2\repository\org\springframework\spring-core\4.0.0.RELEASE\spring-core-4.0.0.RELEASE.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-09-18 19:45:43.633
+!MESSAGE Invalid ZIP archive: C:\Users\atSprestamos\.m2\repository\org\springframework\spring-beans\4.0.0.RELEASE\spring-beans-4.0.0.RELEASE.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-09-18 19:45:43.643
+!MESSAGE Invalid ZIP archive: C:\Users\atSprestamos\.m2\repository\org\springframework\spring-context\4.0.0.RELEASE\spring-context-4.0.0.RELEASE.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-09-18 19:45:43.653
+!MESSAGE Invalid ZIP archive: C:\Users\atSprestamos\.m2\repository\org\springframework\spring-core\4.0.0.RELEASE\spring-core-4.0.0.RELEASE.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-09-18 19:45:53.703
+!MESSAGE Invalid ZIP archive: C:\Users\atSprestamos\.m2\repository\org\springframework\spring-beans\4.0.0.RELEASE\spring-beans-4.0.0.RELEASE.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-09-18 19:45:53.709
+!MESSAGE Invalid ZIP archive: C:\Users\atSprestamos\.m2\repository\org\springframework\spring-context\4.0.0.RELEASE\spring-context-4.0.0.RELEASE.jar
+
+!ENTRY org.eclipse.jdt.core 4 0 2018-09-18 19:45:53.716
+!MESSAGE Invalid ZIP archive: C:\Users\atSprestamos\.m2\repository\org\springframework\spring-core\4.0.0.RELEASE\spring-core-4.0.0.RELEASE.jar
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:46:17.029
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:46:17.042
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:46:18.154
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:46:18.177
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:46:33.766
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:46:33.781
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:51:06.581
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-18 19:51:06.601
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
