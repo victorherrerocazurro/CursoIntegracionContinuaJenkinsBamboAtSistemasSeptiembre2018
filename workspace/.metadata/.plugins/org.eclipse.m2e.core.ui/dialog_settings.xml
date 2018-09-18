@@ -7,8 +7,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="03-ProyectoMavenWeb"/>
-			<item value="01-ProyectoMaven"/>
+			<item value="07-ProyectoPadre"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -28,6 +27,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\CursoIC\workspace"/>
+			<item value="C:\CursoIC\workspace\03-ProyectoMavenWeb\target\generated-sources\archetype"/>
 			<item value="C:\Users\atSprestamos\workspace"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -40,6 +41,7 @@
 		</list>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
@@ -64,6 +66,9 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\CursoIC\workspace\07-ProyectoPadre"/>
+			<item value="C:\CursoIC\workspace\05-Arquetipo"/>
+			<item value="C:\CursoIC\workspace\05-Arquetipo\src\main\resources\archetype-resources\src\main\java\Controlador.java"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

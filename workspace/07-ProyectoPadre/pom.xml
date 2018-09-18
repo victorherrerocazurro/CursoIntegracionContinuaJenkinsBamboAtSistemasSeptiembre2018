@@ -23,4 +23,7 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+	<modules>
+		<module>Web</module>
+	</modules>
 </project>
