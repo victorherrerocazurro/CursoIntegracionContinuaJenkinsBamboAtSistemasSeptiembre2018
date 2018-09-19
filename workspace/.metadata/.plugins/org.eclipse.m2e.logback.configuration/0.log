@@ -3050,3 +3050,4 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.atsistema
 2018-09-18 19:51:13,836 [Worker-132: Launching 01-ProyectoMaven] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\CursoIC\workspace\01-ProyectoMaven
 2018-09-18 19:51:13,836 [Worker-132: Launching 01-ProyectoMaven] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B deploy
 2018-09-18 19:57:14,413 [Worker-130: Launching 01-ProyectoMaven] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\CursoIC\workspace\01-ProyectoMaven
+2018-09-18 19:57:14,418 [Worker-130: Launching 01-ProyectoMaven] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B deploy
